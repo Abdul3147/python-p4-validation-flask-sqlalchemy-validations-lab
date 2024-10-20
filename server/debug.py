@@ -1,9 +1,9 @@
+
+
 #!/usr/bin/env python3
 
 from app import app
 from models import db, Author, Post
-
-
 
 if __name__ == '__main__':
     
